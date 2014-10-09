@@ -9,6 +9,8 @@ notice in there.
 * http://git.or.cz/course/svn.html
 * https://www.atlassian.com/git/tutorials/setting-up-a-repository
 * http://gitready.com/
+* http://git.or.cz/course/svn.html
+* https://www.atlassian.com/git/tutorials/setting-up-a-repository
 
 #### 2. github
 * https://pages.github.com/
